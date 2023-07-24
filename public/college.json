@@ -1,0 +1,40 @@
+[
+    {
+      "id": "1",
+      "name": "Dhaka University",
+      "admissionprocess": "Admission Exam process",
+      "image": "https://prod-media-eng.dhakatribune.com/uploads/2020/07/whatsapp-image-2020-07-01-at-8-07-49-pm-1593668734872.jpeg",
+      "events": "3",
+      "research": "3",
+      "date": "MARCH 01 ",
+      "sports": ""
+      
+    },
+    {
+      "id": "2",
+      "name": "BUTE",
+      "admissionprocess": "Admission Exam process",
+      "image": "https://tds-images.thedailystar.net/sites/default/files/images/2022/03/10/buet_0.jpg",
+      "events": "4",
+      "research": "3",
+      "date": "February 01 ",
+      "sports": ""
+      
+    },
+    {
+      "id": "3",
+      "name": "CUTE",
+      "admissionprocess": "Admission Exam process",
+      "image": "https://new-media.dhakatribune.com/en/uploads/2022/07/05/sheikh-kamal-it-business-incubator-feature-image.jpeg",
+      "events": "3",
+      "research": "3",
+      "date": "MARCH 01 ",
+      "sports": ""
+      
+    }
+  
+   
+  
+   
+  ]
+  
